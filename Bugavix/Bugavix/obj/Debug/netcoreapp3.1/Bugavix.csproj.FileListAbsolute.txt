@@ -1,0 +1,15 @@
+C:\Users\alexh\Desktop\Диплом\Bugavix\Bugavix\Bugavix\bin\Debug\netcoreapp3.1\Bugavix.exe
+C:\Users\alexh\Desktop\Диплом\Bugavix\Bugavix\Bugavix\bin\Debug\netcoreapp3.1\Bugavix.deps.json
+C:\Users\alexh\Desktop\Диплом\Bugavix\Bugavix\Bugavix\bin\Debug\netcoreapp3.1\Bugavix.runtimeconfig.json
+C:\Users\alexh\Desktop\Диплом\Bugavix\Bugavix\Bugavix\bin\Debug\netcoreapp3.1\Bugavix.runtimeconfig.dev.json
+C:\Users\alexh\Desktop\Диплом\Bugavix\Bugavix\Bugavix\bin\Debug\netcoreapp3.1\Bugavix.dll
+C:\Users\alexh\Desktop\Диплом\Bugavix\Bugavix\Bugavix\bin\Debug\netcoreapp3.1\Bugavix.pdb
+C:\Users\alexh\Desktop\Диплом\Bugavix\Bugavix\Bugavix\obj\Debug\netcoreapp3.1\Bugavix.csprojAssemblyReference.cache
+C:\Users\alexh\Desktop\Диплом\Bugavix\Bugavix\Bugavix\obj\Debug\netcoreapp3.1\Bugavix.Form1.resources
+C:\Users\alexh\Desktop\Диплом\Bugavix\Bugavix\Bugavix\obj\Debug\netcoreapp3.1\Bugavix.csproj.GenerateResource.cache
+C:\Users\alexh\Desktop\Диплом\Bugavix\Bugavix\Bugavix\obj\Debug\netcoreapp3.1\Bugavix.AssemblyInfoInputs.cache
+C:\Users\alexh\Desktop\Диплом\Bugavix\Bugavix\Bugavix\obj\Debug\netcoreapp3.1\Bugavix.AssemblyInfo.cs
+C:\Users\alexh\Desktop\Диплом\Bugavix\Bugavix\Bugavix\obj\Debug\netcoreapp3.1\Bugavix.csproj.CoreCompileInputs.cache
+C:\Users\alexh\Desktop\Диплом\Bugavix\Bugavix\Bugavix\obj\Debug\netcoreapp3.1\Bugavix.dll
+C:\Users\alexh\Desktop\Диплом\Bugavix\Bugavix\Bugavix\obj\Debug\netcoreapp3.1\Bugavix.pdb
+C:\Users\alexh\Desktop\Диплом\Bugavix\Bugavix\Bugavix\obj\Debug\netcoreapp3.1\Bugavix.genruntimeconfig.cache
